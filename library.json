@@ -1,0 +1,14 @@
+{
+    "1": {
+        "title": "Computer",
+        "author": "fahad",
+        "isbn": "1",
+        "available": true
+    },
+    "3": {
+        "title": "Football",
+        "author": "ali",
+        "isbn": "3",
+        "available": true
+    }
+}
